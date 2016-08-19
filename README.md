@@ -1,6 +1,6 @@
 /* 42 project, by rliou-ke, flevesqu, jblondea, amerelo */
 
-Subject : https://cdn.intra.42.fr/pdf/pdf/30/corewar.pdf
+Subject : https://github.com/flevesqu42/42_Corewar/blob/master/resources/github_sources/corewar.pdf
 
 Release date : 05/23/2016.
 
