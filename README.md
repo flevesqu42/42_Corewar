@@ -1,8 +1,12 @@
 /* 42 project, by rliou-ke, flevesqu, jblondea, amerelo */
 
-Release date : 05/23/2016
+Subject : https://cdn.intra.42.fr/pdf/pdf/30/corewar.pdf
+
+Release date : 05/23/2016.
 
 Submit in : Three weeks.
+
+Language : C
 
 >	2 parts project involving the parsing / compilation of an asm written “champion” 
 followed by the creation of a virtual machine where these champions can crush each other. 
