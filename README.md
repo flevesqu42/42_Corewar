@@ -57,8 +57,8 @@ You might need to add the following line in your shell in case some error while 
 
 * ` ./corewar mushrooms/Legendary_mushroom.cor test_files/helltrain.cor -h -g `
 
-* Hit <Space> to start / pause / resume the fight.
+* Hit \<Space\> to start / pause / resume the fight.
 
-* Hit <Escape> for help menu.
+* Hit \<Escape\> for help menu.
 
 ![alt tag](https://github.com/flevesqu42/42_Corewar/blob/master/resources/github_sources/Screen%20Shot%202016-08-19%20at%206.48.09%20AM.png?raw=true)
