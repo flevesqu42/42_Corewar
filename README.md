@@ -2,9 +2,7 @@
 
 Subject : https://github.com/flevesqu42/42_Corewar/blob/master/resources/github_sources/corewar.pdf
 
-Release date : 05/23/2016.
-
-Submit in : Three weeks.
+Release date : 05/23/2016
 
 Language : C
 
